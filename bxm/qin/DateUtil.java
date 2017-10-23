@@ -1,4 +1,4 @@
-package com.bxm.qin;
+package bxm.qin;
 
 import java.sql.Timestamp;
 import java.text.DateFormat;

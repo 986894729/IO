@@ -1,4 +1,4 @@
-package com.bxm.qin;
+package bxm.qin;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

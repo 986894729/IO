@@ -1,4 +1,4 @@
-package com.bxm.qin;
+package bxm.qin;
 
 /**
  * Created by ganquan on 2017/8/10.

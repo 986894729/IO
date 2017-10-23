@@ -1,4 +1,4 @@
-package com.bxm.qin;
+package bxm.qin;
 
 import sun.misc.BASE64Encoder;
 

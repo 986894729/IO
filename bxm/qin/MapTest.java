@@ -1,13 +1,9 @@
-package com.bxm.qin;
+package bxm.qin;
 
-import org.junit.Test;
 
-import java.math.BigDecimal;
-import java.sql.Timestamp;
-import java.text.DateFormat;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.*;
+import org.junit.jupiter.api.Test;
+
+import java.util.List;
 
 /**
  * @FileName com.bxm.qin.MapTest.java

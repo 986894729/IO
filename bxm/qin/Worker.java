@@ -1,6 +1,6 @@
-package com.bxm.qin;
+package bxm.qin;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 /**
  * @FileName com.bxm.qin.Worker.java

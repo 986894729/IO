@@ -1,4 +1,4 @@
-package com.bxm.qin;
+package bxm.qin;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
